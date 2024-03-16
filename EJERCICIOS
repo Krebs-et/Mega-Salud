@@ -1,0 +1,15 @@
+EJERCICIO LISTAS 16/03/2024
+
+DESCRIPCIÓN DEL PROBLEMA:
+
+SE NECESITA UN PROGRAMA QUE LE PIDA AL USUARIO UNA SERIE DE NÚMEROS SEPARADOS POR COMAS, UNA VEZ ALMACENADOS ESTOS NÚMEROS EN UNA VARIABLE DE TIPO "LISTA"
+EL PROGRAMA DEBE REGRESAR EL VALOR DE SU SUMATORIA Y SU PROMEDIO.
+
+TAREAS A REALIZAR:
+
+- Escribir en PSEUDOCÓDIGO el algoritmo paso por paso.
+
+- Explicar con tus propias palabras la descripción del problema.
+
+- Por último pasar a código tu algoritmo. Puedes usar el lenguaje de tu preferencia, pero se sugiere Python.
+
